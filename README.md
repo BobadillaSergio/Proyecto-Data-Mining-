@@ -49,11 +49,10 @@ casen_agregado = casen_df.groupby("nombre_comuna").apply(
 
 ## Pendiente
 
-El archivo `A Futuro` enumera dos tareas principales:
-
-1. Analizar sólo con datos del Servel el comportamiento subterritorial usando
-   los locales como referencia, incorporando variables socioeconómicas externas.
-2. Evaluar el uso del Censo para complementar la información.
+1. Depurar
+2. Crear el mapa político.
+3. Aplicar las tecnicas de causalidad / FrontDoor.
+4. Sacar Conclusiones.
 
 ## Licencia
 
